@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AParkour" />
+        <module name="aparkour" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AParkour" target="1.8" />
+      <module name="aparkour" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

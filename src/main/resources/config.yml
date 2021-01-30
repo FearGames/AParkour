@@ -23,6 +23,7 @@ MySQL:
     User: root
     Password: example
     Database: aparkour
+    PoolSize: 10
 
 
 # PLAYER GAMEMODE WHILE PLAYING IN PARKOUR

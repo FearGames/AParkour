@@ -6,9 +6,7 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.UUID;
 
-import javafx.util.Pair;
 import org.bukkit.GameMode;
-import org.bukkit.Location;
 import org.bukkit.inventory.ItemStack;
 
 import com.gmail.filoghost.holographicdisplays.api.Hologram;
